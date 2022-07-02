@@ -1,0 +1,10 @@
+.exp {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(17, 17, 19, 0.98);
+  border-radius: 15px;
+  width: 90vw;
+  margin-left: -20px;
+}

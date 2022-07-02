@@ -1,0 +1,14 @@
+.dateBox {
+  border: 1px solid whitesmoke;
+  width: 100px;
+  height: 70px;
+  padding: 5px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.month {
+  font-size: 20px;
+  font-family: helvetica;
+  margin: 10% 2%;
+}
